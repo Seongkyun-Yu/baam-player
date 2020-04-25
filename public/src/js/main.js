@@ -32,7 +32,6 @@ const myStorage = window.localStorage;
 window.onload = () => {
   if (myStorage.getItem('id') === null) signin.logout();
 
-  console.log(myStorage.getItem('id'));
   musicList.renderAllMusic();
   player.setMusic();
   player.listRender();
