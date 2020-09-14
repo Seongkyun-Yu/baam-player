@@ -1,6 +1,8 @@
 # Baam player
 
-![Baam Player](https://user-images.githubusercontent.com/15887982/93062899-7d97d180-f6b0-11ea-9e41-d44741a2cd04.gif)
+| [![omegabox_image](https://user-images.githubusercontent.com/15887982/93062899-7d97d180-f6b0-11ea-9e41-d44741a2cd04.gif)](https://youtu.be/KkLLEdy4nKI) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                          _이미지 클릭시 YouTube로 연결됩니다_                                                           |
 
 다양한 음악을 재생할 수 있는 뮤직 플레이어 입니다
 
@@ -12,7 +14,7 @@
 
 실행을 원하신다면 ysungkyun@gmail.com으로 해당 파일을 요청해주세요.
 
-키 파일을 받으셨다면 npm start 후 http://localhost:9000/로 접속하시면 됩니다.
+키 파일을 받으셨다면 npm start 후 http://localhost:9000/ 로 접속하시면 됩니다.
 
 <br>
 
