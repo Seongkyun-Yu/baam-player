@@ -37,8 +37,8 @@ const login = async (e) => {
 };
 // login('testEvent')
 
-// signin funcs
-const signin = async (e) => {
+// signup funcs
+const signup = async (e) => {
   const id = 'ysungkon';
   const password = '1111';
   const name = '유성균';

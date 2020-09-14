@@ -1,8 +1,18 @@
 # Baam player
 
-![Baam player](https://user-images.githubusercontent.com/15887982/80193126-3fdbd300-8653-11ea-9920-c1c1aa4da185.png)
+![Baam Player](https://user-images.githubusercontent.com/15887982/93062899-7d97d180-f6b0-11ea-9e41-d44741a2cd04.gif)
 
 다양한 음악을 재생할 수 있는 뮤직 플레이어 입니다
+
+<br>
+
+# 실행 방법
+
+결제 기능에 필요한 키 파일이 포함되어 있지 않습니다.
+
+실행을 원하신다면 ysungkyun@gmail.com으로 해당 파일을 요청해주세요.
+
+키 파일을 받으셨다면 npm start 후 http://localhost:9000/로 접속하시면 됩니다.
 
 <br>
 
@@ -27,6 +37,7 @@
 <br>
 
 # 조원
+
 - 송부용 (PM)
 - 유성균
 - 정호영
@@ -35,7 +46,8 @@
 <br>
 
 ## 사용 기술
+
 - HTML
 - CSS
 - Javascript
-
+- NodeJS
